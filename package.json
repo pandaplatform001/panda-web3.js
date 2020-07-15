@@ -1,8 +1,8 @@
 {
-  "name": "web3",
-  "namespace": "ethereum",
+  "name": "pandaweb3",
+  "namespace": "pandachain",
   "version": "0.20.7",
-  "description": "Ethereum JavaScript API, middleware to talk to a ethereum node over RPC",
+  "description": "Pandachain JavaScript API, middleware to talk to a pandachain node over RPC",
   "main": "./index.js",
   "directories": {
     "lib": "./lib"
